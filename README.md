@@ -1,2 +1,2 @@
 # Voron-CNC-2MGT-XY-Joints
-CNC XY Joints for Voron v1 or v2
+An open source CNC XY Joints for Voron v1 or v2.
